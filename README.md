@@ -6,10 +6,7 @@
 
 **My name is Lucas. Welcome to my GitHub profile.** 
 
-I'm a 24 yo brazilian who's currently a undergratuate in computer engineering.
-Here you will find a few projects I've worked on over time. You can also see what projects I've taken interest on following by brownsing what I've [starred](https://github.com/btlucas?tab=stars).
-I'm a tech junkie, night mode enthusiast and a cat and dog person (I know, almost a paradox this one here).
-Currently working on improving my skills as a programmer expanding my knowledge in different languages.
+I'm a 24 yo Brazilian who's currently an undergraduate in computer engineering. Here you will find a few projects I've worked on over time. You can also see what projects I've taken interest on following by browsing what I've [starred](https://github.com/btlucas?tab=stars). I'm a tech junkie, night mode enthusiast and a cat and dog person (I know, almost a paradox). Currently working on improving my skills as a programmer expanding my knowledge in different languages.
 
 ### Where you can find me
 
