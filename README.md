@@ -4,7 +4,7 @@
 <h1>Hi there 👋</h1>
 </div>
 
-**My name is Lucas. Welcome to my GitHub profile. (WOP)** 
+**My name is Lucas. Welcome to my GitHub profile. (WIP)** 
 
 I'm a 24 yo Brazilian who's currently an undergraduate in computer engineering. Here you will find a few projects I've worked on over time. You can also see what projects I've taken interest on following by browsing what I've [starred](https://github.com/btlucas?tab=stars). I'm a tech junkie, night mode enthusiast and a cat and dog person (I know, almost a paradox). Currently working on improving my skills as a programmer expanding my knowledge in different languages.
 
