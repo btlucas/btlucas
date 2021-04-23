@@ -6,7 +6,7 @@
 
 **Welcome to my GitHub profile 😄** 
 
-My name is Lucas, I'm a Quality Assurance Engineer at [Smarkio Brasil](https://www.smarkio.com.br/), currently an undergraduate in computer engineering at the [Federal University of Itajubá](https://unifei.edu.br/). To see what projects I've taken interest on following you can browse what I've [starred](https://github.com/btlucas?tab=stars). <br>I'm a tech junkie, night mode enthusiast and a cat and dog person (I know, almost a paradox).
+My name is Lucas, I'm a Quality Assurance Engineer at [Smarkio Brasil](https://www.smarkio.com.br/), currently an undergraduate in computer engineering at the [Federal University of Itajubá](https://unifei.edu.br/). To see what projects I've taken interest on following you can browse what I've [starred](https://github.com/btlucas?tab=stars). <br>
 
 ### Where you can find me
 
